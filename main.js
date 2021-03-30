@@ -99,17 +99,16 @@ function topDeals(jsonObj){
 
 
 		// Declaration of variable for features
-		var fectures = dealsOfDay[i].fectures;
+		var feature = dealsOfDay[i].feature;
 
 
 
 		//For loop for list item
-		for (var j = 0; j < fectures.length; j++){
+		for (var j = 0; j < feature.length; j++){
 
-		var productItem = document.createElement('li');
-
-		productItem.textContent = fectures[j];
-		list.appendChild(productItem);
+			var productItem = document.createElement('li');
+			productItem.textContent = feature[j];
+			list.appendChild(productItem);
 		}
 
 
@@ -122,16 +121,3 @@ function topDeals(jsonObj){
 	}
 }
 
-
-// For Map JavaScript
-
-function initMap(){
-
-
-	var newmap = {lat: 44.365500, lng: -79.701087};
-
-	var map = new google.maps.Map(
-		document.getElementById('map'), {zoom: 12, center: newmap});
-
-	var marker = new google.maps.Marker({position: newmap, map: map});
-}
