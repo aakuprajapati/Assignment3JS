@@ -99,16 +99,16 @@ function topDeals(jsonObj){
 
 
 		// Declaration of variable for features
-		var features = dealsOfDay[i].features;
+		var fectures = dealsOfDay[i].fectures;
 
 
 
 		//For loop for list item
-		for (var j = 0; j < features.length; j++){
+		for (var j = 0; j < fectures.length; j++){
 
 		var productItem = document.createElement('li');
 
-		productItem.textContent = features[j];
+		productItem.textContent = fectures[j];
 		list.appendChild(productItem);
 		}
 
