@@ -38,16 +38,28 @@
       "image": "bacon-mustache.jpg"
     },
 
-	{
-		"name": "Gardening claws",
-		"price": 9.49,
-		"description": "Multi Function Sturdy Claws Garden Gloves",
-		"feature": [
-		  "Smooth Claws",
-		  "Durable, Waterproof, Puncture Resistant",
-		  "Digging, Planting, Grading and Raking"
-		],
-		"image": "gardening-claws.jpg"
-	  }
+    {
+      "name": "Gardening claws",
+      "price": 9.49,
+      "description": "Multi Function Sturdy Claws Garden Gloves",
+      "feature": [
+        "Smooth Claws",
+        "Durable, Waterproof, Puncture Resistant",
+        "Digging, Planting, Grading and Raking"
+      ],
+      "image": "gardening-claws.jpg"
+    },
+
+    {
+      "name": "Nothing",
+      "price": 5.95,
+      "description": "For those who have everything",
+      "feature": [
+        "Awesomely empty",
+        "Spend money to get nothing",
+        "Good way to clear overflowing pockets"
+      ],
+      "image": "nothing.jpg"
+    }
   ]
 }
