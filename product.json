@@ -1,7 +1,5 @@
 {
-  "Head": "Head1",
-  "secondHead": "Head2",
-
+  "Head": "Top Weird Deals",
   "active": true,
   "topDeals": [
     {
