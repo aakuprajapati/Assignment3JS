@@ -6,7 +6,11 @@
       "name": "A cat butt tissue holder",
       "price": 34.94,
       "description": "Tissue holder as a form of cat",
-      "feature": ["It is nice", "Good for cat-lovers", "Fits square tissue box"],
+      "feature": [
+        "It is nice",
+        "Good for cat-lovers",
+        "Fits square tissue box"
+      ],
       "image": "tissue-holder.jpg"
     },
 
@@ -14,16 +18,24 @@
       "name": "Baby Mops",
       "price": 39.99,
       "description": "Babies are not a trouble",
-      "feature": [" Fun to watch baby cleaning", "Works on any surface", "The perfect gift for new-born"],
+      "feature": [
+        " Fun to watch baby cleaning",
+        "Works on any surface",
+        "The perfect gift for new-born"
+      ],
       "image": "baby-mop.jpg"
     },
 
     {
-      "name": "example 3",
-      "price": 42,
-      "description": "vhj b",
-      "feature": [" jhk", "heyyyy", " hikjl", "designed to last"],
-      "image": "live-ladybugs.jpg"
+      "name": "A bacon-scented mustache",
+      "price": 4.85,
+      "description": "Moustache with the scent of Bacon",
+      "feature": [
+        "Perfect thing to wear while woodworking or fishing",
+        "Made of lifelike synthetic hair",
+        "designed to last"
+      ],
+      "image": "bacon-mustache.jpg"
     }
   ]
 }
