@@ -7,7 +7,7 @@ var section = document.querySelector('section');
 
 // Json file on server and request URL
 
-var requestURL = 'https://raw.githubusercontent.com/vikasvyas237/JS_Project4_200394465/master/product.json';
+var requestURL = 'https://raw.githubusercontent.com/aakuprajapati/Assignment3JS/master/product.json';
 
 // Create a new object
 var request = new XMLHttpRequest();
@@ -89,7 +89,7 @@ function topDeals(jsonObj){
 
 		// Set all property for each element based on JSON
 
-		img.setAttribute('src', 'https://raw.githubusercontent.com/vikasvyas237/JS_Project4_200394465/master/images/' + dealsOfDay[i].image);
+		img.setAttribute('src', 'https://raw.githubusercontent.com/aakuprajapati/Assignment3JS/master/images/' + dealsOfDay[i].image);
 		img.setAttribute('alt', dealsOfDay[i].name);
 
 		h2.textContent = dealsOfDay[i].name;
