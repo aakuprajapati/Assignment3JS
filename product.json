@@ -5,17 +5,17 @@
     {
       "name": "A cat butt tissue holder",
       "price": 34.94,
-      "description": "Cat as a form of Tissue holder",
+      "description": "Tissue holder as a form of cat",
       "feature": ["It is nice", "Good for cat-lovers", "Fits square tissue box"],
       "image": "tissue-holder.jpg"
     },
 
     {
-      "name": "hello",
-      "price": 20,
-      "description": "this is not nice",
-      "feature": [" jhk", "Good gifts", " hikjl", "designed to last"],
-      "image": "uranium-ore.jpg"
+      "name": "Baby Mops",
+      "price": 39.99,
+      "description": "Babies are not a trouble",
+      "feature": [" Fun to watch baby cleaning", "Works on any surface", "The perfect gift for new-born"],
+      "image": "baby-mop.jpg"
     },
 
     {
